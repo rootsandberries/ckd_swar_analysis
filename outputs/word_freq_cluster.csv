@@ -1,0 +1,644 @@
+,V1,V2,Count
+301,kidney disease,1,222
+62,chronic kidney,1,154
+63,chronic kidney disease,1,152
+670,vascular disease,1,52
+46,cardiovascular disease,1,33
+125,diabetes mellitus,1,29
+58,chronic disease,1,28
+59,chronic diseases,1,18
+126,diabetic kidney,1,17
+127,diabetic kidney disease,1,17
+249,heart disease,1,16
+385,medical record,1,16
+15,anemia management,1,13
+168,end-stage kidney,1,12
+169,end-stage kidney disease,1,12
+422,nephrotic syndrome,1,12
+454,population health,1,12
+669,vascular calcification,1,12
+157,early stage,1,11
+386,medical records,1,11
+416,natural language,1,11
+507,public health,1,11
+47,cardiovascular diseases,1,10
+163,electronic medical,1,10
+164,electronic medical record,1,10
+305,kidney diseases,1,10
+319,language processing,1,8
+417,natural language processing,1,8
+147,disease stage,1,7
+210,general population,1,7
+54,cerebrovascular disease,1,6
+60,chronic heart,1,6
+109,coronary heart,1,6
+110,coronary heart disease,1,6
+154,early detection,1,6
+382,medical history,1,6
+638,therapeutic algorithm,1,6
+1,abdominal aortic,1,5
+21,arterial hypertension,1,5
+50,cardiovascular mortality,1,5
+104,contrast media,1,5
+131,diagnostic algorithm,1,5
+158,early stages,1,5
+165,electronic medical records,1,5
+197,false positive,1,5
+235,health condition,1,5
+242,health status,1,5
+304,kidney disease stage,1,5
+352,long-term hemodialysis,1,5
+401,model predictive,1,5
+481,predictive values,1,5
+499,proposed model,1,5
+611,stimulating agents,1,5
+65,chronic kidney disease stage,1,4
+135,dialysis population,1,4
+136,differential diagnosis,1,4
+159,effectively improve,1,4
+173,endothelial growth,1,4
+174,endothelial growth factor,1,4
+237,health problem,1,4
+251,hemoglobin levels,1,4
+274,increased morbidity,1,4
+486,privacy concerns,1,4
+504,proteins involved,1,4
+551,resource allocation,1,4
+635,teacher model,1,4
+645,transfer learning,1,4
+671,vascular endothelial,1,4
+672,vascular endothelial growth,1,4
+673,vascular endothelial growth factor,1,4
+676,ventricular hypertrophy,1,4
+11,advanced disease,1,3
+27,atherosclerotic cardiovascular,1,3
+28,atherosclerotic cardiovascular disease,1,3
+32,baseline methods,1,3
+40,breast cancer,1,3
+66,chronic kidney diseases,1,3
+89,competitive baseline,1,3
+124,development process,1,3
+181,expert panel,1,3
+191,extensive experiments,1,3
+214,global health,1,3
+240,health service,1,3
+255,higher mortality,1,3
+263,hypertension management,1,3
+281,insulin resistance,1,3
+370,major cardiovascular,1,3
+374,medical center,1,3
+384,medical management,1,3
+402,modern medicine,1,3
+451,policy makers,1,3
+456,positive predictive,1,3
+488,procedure codes,1,3
+527,regression models,1,3
+531,renal biopsy,1,3
+661,urinary protein,1,3
+49,cardiovascular morbidity,1,2
+190,extensive experimental,1,2
+233,hazard ratios,1,2
+244,healthcare industry,1,2
+318,laboratory tests,1,2
+368,maintenance dialysis,1,2
+414,multivariate regression,1,2
+457,positive predictive values,1,2
+639,therapeutic algorithms,1,2
+241,health services,1,1
+312,kidney transplant,2,95
+532,renal disease,2,92
+605,stage renal,2,83
+606,stage renal disease,2,76
+170,end-stage renal,2,71
+171,end-stage renal disease,2,65
+315,kidney transplantation,2,57
+138,differentially expressed,2,34
+545,renal transplant,2,29
+72,chronic renal,2,27
+668,vascular access,2,23
+184,expressed genes,2,22
+223,graft survival,2,22
+546,renal transplantation,2,21
+74,chronic renal failure,2,19
+139,differentially expressed genes,2,16
+306,kidney exchange,2,14
+512,radical prostatectomy,2,14
+585,signaling pathway,2,14
+128,diabetic nephropathy,2,13
+119,decision support,2,12
+298,kidney allocation,2,12
+646,transplant recipient,2,12
+83,co-expression network,2,11
+150,donor kidney,2,11
+151,donor nephrectomy,2,11
+344,living donor,2,11
+623,surgical technique,2,11
+625,survival rates,2,11
+405,molecular mechanism,2,10
+35,biological process,2,9
+182,expert system,2,9
+266,immune cells,2,9
+502,prostate cancer,2,9
+589,simulation model,2,9
+632,target genes,2,9
+647,transplant recipients,2,9
+112,creatinine level,2,8
+115,deceased donor,2,8
+132,diagnostic biomarkers,2,8
+189,expression profiling,2,8
+232,hazard ratio,2,8
+323,laparoscopic radical,2,8
+324,laparoscopic radical prostatectomy,2,8
+529,renal allograft,2,8
+538,renal impairment,2,8
+2,access thrombosis,2,7
+120,decision support system,2,7
+195,extracellular matrix,2,7
+217,glomerular disease,2,7
+397,mobile phone,2,7
+450,peripheral blood,2,7
+503,protein-protein interaction,2,7
+587,significantly enriched,2,7
+616,support system,2,7
+624,surgical techniques,2,7
+36,biological processes,2,6
+97,computed tomography,2,6
+172,end-stage renal failure,2,6
+283,interaction network,2,6
+351,long-term follow-up,2,6
+406,molecular mechanisms,2,6
+497,proportional hazards,2,6
+566,robot-assisted radical,2,6
+113,creatinine levels,2,5
+218,glomerular diseases,2,5
+221,graft failure,2,5
+222,graft function,2,5
+307,kidney exchanges,2,5
+407,morbidly obese,2,5
+523,regional hypothermia,2,5
+568,robotic kidney,2,5
+640,therapeutic targets,2,5
+19,antibody-mediated rejection,2,4
+73,chronic renal disease,2,4
+103,content validity,2,4
+122,decision-making process,2,4
+137,differential expression,2,4
+144,disease diagnosis,2,4
+153,downregulated genes,2,4
+188,expression profiles,2,4
+208,fuzzy logic,2,4
+234,hazards regression,2,4
+261,human leukocyte,2,4
+287,intradialytic hypotension,2,4
+297,kernel distribution,2,4
+299,kidney biopsy,2,4
+313,kidney transplant recipient,2,4
+345,living donors,2,4
+346,localized prostate,2,4
+347,localized prostate cancer,2,4
+381,medical histories,2,4
+409,mouse model,2,4
+437,optimization problem,2,4
+442,organ transplantation,2,4
+447,pathway enrichment,2,4
+452,polycystic kidney,2,4
+453,polycystic kidney disease,2,4
+506,proximal tubular,2,4
+539,renal injury,2,4
+556,robot-assisted kidney,2,4
+569,robotic kidney transplantation,2,4
+649,transplanted kidney,2,4
+657,underwent robotic,2,4
+7,acute rejection,2,3
+12,albumin-to-creatinine ratio,2,3
+13,algorithm identified,2,3
+43,candidate biomarkers,2,3
+79,classification models,2,3
+116,deceased donors,2,3
+133,diagnostic potential,2,3
+183,expert systems,2,3
+186,expression datasets,2,3
+252,herbal medicine,2,3
+265,iliac fossa,2,3
+300,kidney development,2,3
+310,kidney functions,2,3
+340,linear programming,2,3
+355,lupus erythematosus,2,3
+356,lupus nephritis,2,3
+395,mining algorithms,2,3
+419,negative surgical margins,2,3
+420,negatively correlated,2,3
+467,predict future,2,3
+490,progressive chronic,2,3
+491,progressive chronic kidney,2,3
+492,progressive chronic kidney disease,2,3
+498,proportional hazards regression,2,3
+509,radiation exposure,2,3
+517,receptor signaling,2,3
+557,robot-assisted kidney transplantation,2,3
+561,robot-assisted laparoscopic radical,2,3
+562,robot-assisted laparoscopic radical prostatectomy,2,3
+572,robotic surgery,2,3
+581,serum creatinine levels,2,3
+592,single nucleotide,2,3
+594,slide images,2,3
+620,surgical complications,2,3
+627,systemic lupus,2,3
+628,systemic lupus erythematosus,2,3
+633,target population,2,3
+648,transplant waiting,2,3
+650,undergoing robot-assisted,2,3
+667,validity index,2,3
+84,coexpression network,2,2
+273,inclusion criteria,2,2
+314,kidney transplant recipients,2,2
+390,membranous nephropathy,2,2
+432,obese recipients,2,2
+468,predicting disease,2,2
+357,machine learning,3,81
+425,neural network,3,60
+471,prediction model,3,43
+349,logistic regression,3,41
+477,predictive model,3,30
+472,prediction models,3,26
+160,electronic health,3,25
+145,disease progression,3,24
+333,learning method,3,23
+335,learning model,3,23
+238,health record,3,21
+309,kidney function,3,21
+161,electronic health record,3,18
+334,learning methods,3,18
+426,neural networks,3,18
+23,artificial intelligence,3,17
+526,regression model,3,17
+239,health records,3,16
+316,knowledge distillation,3,16
+336,learning models,3,16
+479,predictive models,3,16
+614,supervised learning,3,15
+117,decision making,3,14
+162,electronic health records,3,14
+617,support vector,3,14
+329,learning algorithm,3,13
+515,receiver operating,3,13
+24,artificial neural,3,12
+25,artificial neural network,3,12
+618,support vector machine,3,12
+641,topic models,3,12
+674,vector machine,3,12
+30,attention mechanism,3,11
+362,machine learning model,3,11
+576,secondary hyperparathyroidism,3,11
+4,accurately predict,3,10
+201,feature selection,3,10
+330,learning algorithms,3,10
+361,machine learning methods,3,10
+444,parathyroid hormone,3,10
+465,precision medicine,3,10
+77,classification algorithm,3,9
+317,knowledge graph,3,9
+338,learning techniques,3,9
+363,machine learning models,3,9
+383,medical knowledge,3,9
+433,objective function,3,9
+615,supervised topic,3,9
+629,systolic blood,3,9
+630,systolic blood pressure,3,9
+665,validation cohort,3,9
+57,chronic dialysis,3,8
+331,learning approach,3,8
+350,logistic regression model,3,8
+474,prediction tools,3,8
+76,classification accuracy,3,7
+80,classification performance,3,7
+246,healthcare providers,3,7
+341,linear regression,3,7
+358,machine learning algorithm,3,7
+631,target disease,3,7
+634,target range,3,7
+56,chronic conditions,3,6
+143,disease classification,3,6
+202,final model,3,6
+247,healthcare system,3,6
+258,hospital admissions,3,6
+339,linear combination,3,6
+359,machine learning algorithms,3,6
+360,machine learning approach,3,6
+369,maintenance hemodialysis,3,6
+377,medical conditions,3,6
+400,model performance,3,6
+469,prediction accuracy,3,6
+480,predictive performance,3,6
+514,real-world datasets,3,6
+597,social network,3,6
+607,state-of-the-art methods,3,6
+61,chronic hemodialysis,3,5
+78,classification algorithms,3,5
+114,data-driven models,3,5
+194,externally validated,3,5
+211,genetic algorithm,3,5
+280,input variables,3,5
+286,internal validation,3,5
+332,learning framework,3,5
+364,machine learning techniques,3,5
+376,medical concepts,3,5
+396,mining techniques,3,5
+466,predict disease,3,5
+3,accurate prediction,3,4
+31,attention mechanisms,3,4
+98,computer vision,3,4
+105,convolutional neural,3,4
+106,convolutional neural network,3,4
+130,diagnosis codes,3,4
+149,domain knowledge,3,4
+175,energy efficiency,3,4
+180,existing models,3,4
+192,external knowledge,3,4
+200,feature extraction,3,4
+230,ground truth,3,4
+267,immune system,3,4
+278,inference attacks,3,4
+294,k-nearest neighbor,3,4
+337,learning process,3,4
+372,management system,3,4
+379,medical domain,3,4
+389,membership inference,3,4
+398,model compression,3,4
+424,network architecture,3,4
+439,optimization techniques,3,4
+470,prediction algorithm,3,4
+513,real-world applications,3,4
+519,recurrent neural,3,4
+660,unsupervised learning,3,4
+81,climate science,3,3
+96,comprehensive survey,3,3
+141,directed acyclic,3,3
+204,fluid removal,3,3
+220,gradient boosting,3,3
+243,health system,3,3
+248,healthcare systems,3,3
+260,hospital readmission,3,3
+270,improve prediction,3,3
+271,improves performance,3,3
+373,management systems,3,3
+375,medical codes,3,3
+378,medical diagnosis,3,3
+380,medical experts,3,3
+387,medical research,3,3
+399,model parameters,3,3
+431,normal samples,3,3
+443,parallel algorithms,3,3
+464,potential relationships,3,3
+473,prediction performance,3,3
+475,predictive analytics,3,3
+478,predictive modeling,3,3
+487,privacy protection,3,3
+493,promising performance,3,3
+528,reinforcement learning,3,3
+534,renal diseases,3,3
+549,requiring dialysis,3,3
+612,superior performance,3,3
+613,supervised classification,3,3
+643,traditional machine,3,3
+644,traditional machine learning,3,3
+664,validated algorithms,3,3
+666,validation cohorts,3,3
+118,decision process,3,2
+121,decision trees,3,2
+206,forest algorithm,3,2
+236,health management,3,2
+295,k-nearest neighbors,3,2
+326,large-scale electronic,3,2
+327,large-scale electronic health,3,2
+328,latent variable,3,2
+410,multilayer perceptron,3,2
+579,serum albumin,3,2
+600,software engineering,3,2
+604,square error,3,2
+82,clustering technique,3,1
+99,computing systems,3,1
+148,disease stages,3,1
+365,machine learning-based,3,1
+448,performance evaluation,3,1
+38,blood pressure,4,59
+311,kidney injury,4,50
+535,renal failure,4,47
+5,acute kidney,4,46
+6,acute kidney injury,4,42
+580,serum creatinine,4,36
+250,heart failure,4,25
+107,coronary artery,4,23
+542,renal replacement,4,17
+548,replacement therapy,4,17
+22,artery disease,4,16
+108,coronary artery disease,4,15
+543,renal replacement therapy,4,15
+29,atrial fibrillation,4,13
+257,hospital admission,4,13
+193,external validation,4,12
+52,central venous,4,10
+167,emergency department,4,10
+485,pressure ulcers,4,10
+553,retrospective cohort,4,10
+14,all-cause mortality,4,9
+75,citrate anticoagulation,4,9
+231,growth factor,4,9
+259,hospital mortality,4,9
+48,cardiovascular events,4,8
+342,liver disease,4,8
+408,mortality prediction,4,8
+415,myocardial infarction,4,8
+8,acute renal,4,7
+45,cardiopulmonary bypass,4,7
+53,central venous catheter,4,7
+501,prospective observational,4,7
+591,single center,4,7
+662,urinary tract,4,7
+675,venous catheter,4,7
+37,blood glucose,4,6
+293,ischemic stroke,4,6
+343,liver transplantation,4,6
+575,scoring system,4,6
+9,acute renal failure,4,5
+67,chronic liver,4,5
+155,early diagnosis,4,5
+245,healthcare professionals,4,5
+391,mental health,4,5
+423,nervous system,4,5
+500,prospective cohort,4,5
+636,teaching hospital,4,5
+20,arterial blood,4,4
+44,carbon dioxide,4,4
+68,chronic liver disease,4,4
+134,dialysis machine,4,4
+146,disease severity,4,4
+156,early identification,4,4
+198,family history,4,4
+203,fluid balance,4,4
+272,in-hospital mortality,4,4
+275,increased mortality,4,4
+277,infectious diseases,4,4
+366,magnetic resonance,4,4
+540,renal insufficiency,4,4
+552,respiratory disease,4,4
+554,retrospective observational,4,4
+663,urinary tract infection,4,4
+51,center experience,4,3
+100,congestive heart,4,3
+101,congestive heart failure,4,3
+353,long-term mortality,4,3
+430,normal renal,4,3
+521,regional citrate,4,3
+522,regional citrate anticoagulation,4,3
+550,resonance imaging,4,3
+196,factors affecting,4,2
+209,general hospital,4,2
+367,magnetic resonance imaging,4,2
+434,obstructive pulmonary,4,2
+435,obstructive pulmonary disease,4,2
+508,pulmonary disease,4,2
+69,chronic obstructive,4,1
+70,chronic obstructive pulmonary,4,1
+71,chronic obstructive pulmonary disease,4,1
+88,communication technologies,4,1
+524,register allocation,5,11
+86,coloring register,5,10
+166,embedded systems,5,9
+438,optimization sequences,5,8
+520,redundancy elimination,5,8
+489,programming environment,5,7
+598,software development,5,7
+10,adaptive compiler,5,6
+87,coloring register allocation,5,6
+90,compilation process,5,6
+123,development environment,5,6
+227,graph-coloring register,5,6
+525,register allocator,5,6
+224,graph coloring,5,5
+505,prototype implementation,5,5
+599,software development environment,5,5
+602,solutions found,5,5
+626,system performance,5,5
+225,graph coloring register,5,4
+284,interference graph,5,4
+285,intermediate representation,5,4
+642,traditional compiler,5,4
+26,asymptotic complexity,5,3
+91,compiled procedures,5,3
+92,compiler optimizations,5,3
+215,global register,5,3
+216,global register allocation,5,3
+226,graph coloring register allocation,5,3
+228,graph-coloring register allocation,5,3
+229,graph-coloring register allocator,5,3
+253,heuristic introduced,5,3
+254,heuristic produces,5,3
+268,implementation requirements,5,3
+269,improve performance,5,3
+403,modified heuristic,5,3
+404,modified heuristic produces,5,3
+440,optimizing compilers,5,3
+577,separately compiled,5,3
+578,separately compiled procedures,5,3
+586,significant performance,5,3
+588,similar compile-time,5,3
+590,single assignment,5,3
+603,spill costs,5,3
+609,static single,5,3
+610,static single assignment,5,3
+102,constant propagation,5,1
+446,partial nephrectomy,6,93
+536,renal function,6,83
+219,glomerular filtration,6,65
+177,estimated glomerular,6,44
+178,estimated glomerular filtration,6,44
+176,estimated blood,6,23
+564,robot-assisted partial,6,21
+565,robot-assisted partial nephrectomy,6,21
+392,minimally invasive,6,19
+547,renal tumors,6,19
+621,surgical margin,6,19
+321,laparoscopic partial,6,15
+322,laparoscopic partial nephrectomy,6,15
+461,postoperative complications,6,15
+570,robotic partial,6,15
+571,robotic partial nephrectomy,6,13
+93,complex tumors,6,12
+458,positive surgical,6,11
+459,positive surgical margin,6,11
+494,propensity score,6,11
+541,renal masses,6,11
+558,robot-assisted laparoscopic,6,11
+205,follow-up period,6,10
+537,renal functional,6,10
+601,solitary kidney,6,9
+42,cancer-specific survival,6,8
+510,radical cystectomy,6,8
+518,recurrence-free survival,6,8
+595,small renal,6,8
+449,perioperative complications,6,7
+495,propensity score matching,6,7
+574,score matching,6,7
+622,surgical margins,6,7
+651,undergoing robotic,6,7
+559,robot-assisted laparoscopic partial,6,6
+560,robot-assisted laparoscopic partial nephrectomy,6,6
+596,small renal masses,6,6
+619,surgical approach,6,6
+264,identify predictors,6,5
+530,renal artery,6,5
+567,robot-assisted radical cystectomy,6,5
+573,robotic technology,6,5
+582,severe chronic,6,5
+583,severe chronic kidney,6,5
+584,severe chronic kidney disease,6,5
+17,angiotensin receptor,6,4
+18,angiotensin receptor blocker,6,4
+95,complications occurred,6,4
+256,hilar clamping,6,4
+288,intraoperative complications,6,4
+291,invasive surgery,6,4
+303,kidney disease progression,6,4
+354,long-term renal,6,4
+371,major complications,6,4
+418,negative surgical,6,4
+436,operative parameters,6,4
+445,partial nephrectomies,6,4
+462,postoperative renal,6,4
+463,postoperative renal function,6,4
+496,propensity score-matched,6,4
+511,radical nephrectomy,6,4
+516,receptor blocker,6,4
+652,undergoing robotic partial,6,4
+653,undergoing robotic partial nephrectomy,6,4
+33,baseline renal,6,3
+39,blood transfusions,6,3
+94,complication rates,6,3
+276,increasing complexity,6,3
+289,invasive approaches,6,3
+290,invasive surgeries,6,3
+292,invasive surgical,6,3
+320,laparoscopic nephrectomy,6,3
+325,laparoscopic versus,6,3
+348,localized renal,6,3
+393,minimally invasive surgeries,6,3
+394,minimally invasive surgery,6,3
+411,multivariable logistic,6,3
+427,new-onset chronic,6,3
+428,new-onset chronic kidney,6,3
+429,new-onset chronic kidney disease,6,3
+460,positive surgical margins,6,3
+476,predictive factors,6,3
+555,retrospectively reviewed,6,3
+593,single surgeon,6,3
+637,tertiary referral,6,3
+654,underwent robot-assisted,6,3
+412,multivariate logistic,6,2
+413,multivariate logistic regression,6,2
+455,positive margins,6,2
+655,underwent robot-assisted partial,6,2
+656,underwent robot-assisted partial nephrectomy,6,2
+482,preoperative estimated,6,1
+483,preoperative estimated glomerular,6,1
+484,preoperative estimated glomerular filtration,6,1

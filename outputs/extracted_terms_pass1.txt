@@ -1,0 +1,3388 @@
+1-year mortality
+10-fold cross-validation
+12-month follow-up
+30-day mortality
+5-year mortality
+abdominal aortic
+abdominal aortic aneurysm
+ablation study
+absolute error
+absolute shrinkage
+acceptable accuracy
+access control
+access recirculation
+access surgery
+access thrombosis
+accuracy compared
+accuracy level
+accuracy rates
+accuracy results
+accuracy values
+accurate classification
+accurate diagnosis
+accurate disease
+accurate methods
+accurate prediction
+accurate predictions
+accurate predictive
+accurate result
+accurate results
+accurately detect
+accurately identify
+accurately predict
+accurately predicting
+accurately predicts
+achieve optimal
+achieve superior
+achieved content
+achieves state-of-the-art
+acquired pneumonia
+acute coronary
+acute coronary syndrome
+acute decline
+acute kidney
+acute kidney disease
+acute kidney injury
+acute phase
+acute rejection
+acute renal
+acute renal failure
+acute respiratory
+ad-hoc network
+ad-hoc networks
+adaptive boosting
+adaptive compiler
+adaptive learning
+additional power
+additional power optimally
+adjusted hazard
+adpkd patients
+adult patients
+adult population
+advanced chronic
+advanced chronic kidney
+advanced chronic kidney disease
+advanced computer
+advanced computer science
+advanced disease
+advanced kidney
+advanced scientific
+advanced scientific research
+advanced stage
+advanced stages
+adversarial networks
+adverse clinical
+adverse clinical outcomes
+adverse effects
+adverse event
+adverse events
+adverse outcomes
+adverse reactions
+affiliated hospital
+agent selection
+aging population
+albumin-to-creatinine ratio
+aldosterone system
+algorithm achieved
+algorithm based
+algorithm chronic
+algorithm employs
+algorithm identified
+algorithmic fairness
+algorithms based
+algorithms depends
+algorithms developed
+alias-free flow-insensitive
+alias-free flow-insensitive side-effect
+alias-free flow-insensitive side-effect analysis
+alias-free flow-insensitive side-effect analysis problem
+all-cause mortality
+allocation algorithm
+allocation algorithms
+allocation system
+allograft survival
+alport syndrome
+alternative approach
+alternative method
+ambulatory peritoneal
+ambulatory peritoneal dialysis
+american association
+american college
+american society
+amino acids
+analyses revealed
+analyses showed
+analysis approach
+analysis background
+analysis based
+analysis demonstrated
+analysis identified
+analysis identifies
+analysis methods
+analysis probabilistic
+analysis probabilistic software
+analysis probabilistic software analysis
+analysis problem
+analysis revealed
+analysis reveals
+analysis showed
+analysis shows
+analysis techniques
+analytical approach
+analytical techniques
+and inconsistent values
+and inconsistent values of uci
+and inconsistent values of uci dataset
+anemia management
+anemia management protocol
+anemia management protocols
+anemia treatment
+anesthesiologists score
+angiotensin aldosterone
+angiotensin aldosterone system
+angiotensin receptor
+angiotensin receptor blocker
+angiotensin-converting enzyme
+answers provided
+anti-inflammatory drugs
+antibody-mediated rejection
+anticoagulant therapy
+antidiabetic agents
+antidiabetic drugs
+antihypertensive drugs
+aortic aneurysm
+aortic calcification
+application areas
+applications running
+applying machine
+applying machine learning
+approach background
+approach based
+approach chronic
+approach leverages
+approach outperforms
+approach significantly
+approach to detect
+approach to detect chronic
+approach to detect chronic kidney
+approach to detect chronic kidney disease
+approaches applied
+approximate technique
+apriori algorithm
+arbitrarily complex
+architecture based
+arterial blood
+arterial blood pressure
+arterial hypertension
+arterial pressure
+arteriovenous access
+arteriovenous fistula
+arteriovenous fistulas
+arteriovenous graft
+artery bypass
+artery bypass grafting
+artery disease
+artery stenosis
+article describes
+article explains
+article presents
+artificial intelligence
+artificial intelligence techniques
+artificial intelligence-based
+artificial kidney
+artificial neural
+artificial neural network
+artificial neural network model
+artificial neural network technique
+artificial neural networks
+artificial renal
+artificial renal support
+aspects linked
+assessment tools
+assist healthcare
+assist physicians
+association rules
+asymptotic complexity
+at-risk patients
+atherosclerotic cardiovascular
+atherosclerotic cardiovascular disease
+atrial fibrillation
+attention mechanism
+attention mechanisms
+attention network
+attribute selection
+autism spectrum
+autism spectrum disorder
+autoimmune disease
+autoimmune diseases
+automated detection
+automated diagnosis
+automated knowledge
+automatic classification
+automatic detection
+automatic diagnosis
+automatic extraction
+automatic kidney
+autosomal dominant
+autosomal dominant polycystic
+autosomal dominant polycystic kidney
+autosomal dominant polycystic kidney disease
+autosomal recessive
+average accuracy
+average ensemble
+average error
+average precision
+balanced accuracy
+based algorithm
+based approach
+based chronic
+based chronic kidney
+based chronic kidney disease
+based classification
+based diabetes
+based ensemble
+based feature
+based feature selection
+based feature selection technique
+based medical
+based prediction
+based system
+baseline characteristics
+baseline creatinine
+baseline methods
+baseline model
+baseline renal
+basement membrane
+basic science
+basis function
+basis function network
+bayes classification
+bayes classifier
+bayes classifiers
+bayes model
+bayesian network
+bayesian networks
+belief network
+benchmark datasets
+beneficial effects
+berlin heidelberg
+bilateral caudate
+bilateral cingulate
+bilateral cingulate gyrus
+bilateral inferior
+bilateral inferior frontal
+bilateral inferior frontal gyrus
+bilateral medial
+bilateral medial frontal
+bilateral medial frontal gyrus
+bilateral middle
+bilateral middle frontal
+bilateral middle frontal gyrus
+bilateral precuneus
+bilateral temporal
+bilateral temporal gyrus
+binary classification
+binding multi-graph
+bioimpedance spectroscopy
+bioincompatibility system
+bioinformatic analysis
+bioinformatics analysis
+biological pathways
+biological process
+biological processes
+biological samples
+biopsy procedure
+biopsy samples
+biopsy tissues
+bladder cancer
+blood analysis
+blood cells
+blood glucose
+blood glucose level
+blood pressure
+blood pressure control
+blood pressure monitoring
+blood purification
+blood samples
+blood sugar
+blood tests
+blood transfusions
+blood volume
+blood volume monitoring
+boosting algorithms
+brain activity
+brain function
+brain magnetic
+brain magnetic resonance
+brain magnetic resonance imaging
+brain region
+brain regions
+brain spontaneous
+brain spontaneous neural
+brain spontaneous neural activity
+brain tumor
+brain tumor segmentation
+breast cancer
+breast cancer patients
+breath analysis
+breath sample
+broad range
+building models
+business intelligence
+business media
+by removing noisy
+by removing noisy and inconsistent
+by removing noisy and inconsistent values
+by removing noisy and inconsistent values of uci
+bypass grafting
+c-reactive protein
+california irvine
+cancer classification
+cancer dataset
+cancer diagnosis
+cancer patient
+cancer patients
+cancer-specific survival
+candidate biomarkers
+carbon dioxide
+cardiac arrest
+cardiac death
+cardiopulmonary bypass
+cardiovascular complications
+cardiovascular death
+cardiovascular disease
+cardiovascular diseases
+cardiovascular event
+cardiovascular events
+cardiovascular morbidity
+cardiovascular mortality
+cardiovascular outcome
+cardiovascular risks
+carefully selected
+carotid artery
+case-based reasoning
+catheter placement
+cell-mediated rejection
+center experience
+central venous
+central venous catheter
+cerebrovascular disease
+cerebrovascular diseases
+cervical cancer
+chain reaction
+challenges faced
+challenges related
+challenging problem
+change detection
+characteristic curve
+charlson comorbidity
+charlson comorbidity index
+chart review
+chemical compounds
+chemometric analysis
+chinese journal
+chinese medical
+chinese medical association
+chinese medicine
+chronic condition
+chronic conditions
+chronic dialysis
+chronic disease
+chronic disease management
+chronic disease patients
+chronic disease prediction
+chronic disease progression
+chronic diseases
+chronic glomerulonephritis
+chronic heart
+chronic heart failure
+chronic hemodialysis
+chronic hypertension
+chronic illness
+chronic kidney
+chronic kidney disease
+chronic kidney disease background
+chronic kidney disease based
+chronic kidney disease chronic
+chronic kidney disease chronic kidney
+chronic kidney disease classification
+chronic kidney disease dataset
+chronic kidney disease datasets
+chronic kidney disease detection
+chronic kidney disease diagnosis
+chronic kidney disease early
+chronic kidney disease epidemiology
+chronic kidney disease epidemiology collaboration
+chronic kidney disease kidney
+chronic kidney disease objective
+chronic kidney disease patients
+chronic kidney disease prediction
+chronic kidney disease progression
+chronic kidney disease stage
+chronic kidney disease stages
+chronic kidney diseases
+chronic kidney failure
+chronic kidney failure disease
+chronic kidney patient
+chronic liver
+chronic liver disease
+chronic obstructive
+chronic obstructive pulmonary
+chronic obstructive pulmonary disease
+chronic renal
+chronic renal disease
+chronic renal failure
+chronic renal insufficiency
+cingulate gyrus
+circular scheduling
+circulatory system
+citrate anticoagulation
+class distribution
+class imbalance
+class imbalance problem
+class labels
+classical machine
+classical machine learning
+classification accuracy
+classification algorithm
+classification algorithms
+classification approach
+classification based
+classification method
+classification methods
+classification model
+classification models
+classification network
+classification performance
+classification problem
+classification problems
+classification process
+classification results
+classification system
+classification tasks
+classification technique
+classification techniques
+classified based
+classified patients
+classifier achieved
+classifier model
+classifier techniques
+classifiers chronic
+classifiers chronic kidney
+classifiers chronic kidney disease
+classify chronic
+classify chronic kidney
+classify patients
+classifying chronic
+climate science
+clinical algorithms
+clinical application
+clinical applications
+clinical approach
+clinical assessment
+clinical benefit
+clinical cases
+clinical characteristics
+clinical conditions
+clinical criteria
+clinical dataset
+clinical decision
+clinical decision making
+clinical decision support
+clinical decision support system
+clinical decision-making
+clinical decisions
+clinical diagnosis
+clinical diagnostics
+clinical effectiveness
+clinical evaluation
+clinical examination
+clinical factors
+clinical features
+clinical guidelines
+clinical importance
+clinical information
+clinical insights
+clinical management
+clinical manifestations
+clinical notes
+clinical outcome
+clinical outcomes
+clinical parameters
+clinical phenotype
+clinical phenotypes
+clinical picture
+clinical practice
+clinical practice guidelines
+clinical prediction
+clinical predictors
+clinical presentation
+clinical problem
+clinical research
+clinical researchers
+clinical scenarios
+clinical setting
+clinical settings
+clinical significance
+clinical situations
+clinical staff
+clinical studies
+clinical study
+clinical symptoms
+clinical tasks
+clinical tolerance
+clinical tools
+clinical trial
+clinical trial registration
+clinical trials
+clinical usefulness
+clinical variables
+clinically relevant
+clinically significant
+clinicians assess
+closely correlated
+closely related
+cloud computing
+cloud computing environment
+cluster analysis
+clustering algorithm
+clustering analysis
+clustering method
+clustering technique
+clustering techniques
+co-expression network
+co-expression network analysis
+co-morbid conditions
+coexpression network
+cognitive assessment
+cognitive decline
+cognitive dysfunction
+cognitive function
+cognitive impairment
+cohort comprised
+cohort included
+cohort studies
+cohort study
+cohort study including
+collected clinical
+collected prospectively
+coloring heuristics
+coloring register
+coloring register allocation
+combination therapy
+comfortable blood
+comfortable blood pressure
+comfortable blood pressure monitoring
+common complication
+common complications
+common disease
+common microvascular
+common microvascular complication
+common problem
+commonly employed
+commonly found
+commonly reported
+communication system
+communication technologies
+community acquired
+community acquired pneumonia
+community health
+comorbid conditions
+comorbidity index
+comparative analysis
+comparative approach
+comparative model
+comparative study
+compared based
+comparison study
+competitive baseline
+compilation process
+compiled procedures
+compiler optimizations
+compiling system
+complex lattice
+complex lattice structures
+complex networks
+complex tumors
+complication rates
+complications including
+complications occurred
+component analysis
+composite outcome
+comprehensive analysis
+comprehensive review
+comprehensive survey
+compressive strength
+computation resources
+computational analysis
+computational approaches
+computational complexity
+computational intelligence
+computational intelligence approaches
+computational model
+computationally efficient
+computed based
+computed tomography
+computed tomography scans
+computer aided
+computer science
+computer vision
+computer-aided diagnosis
+computes optimal
+computing environment
+computing environments
+computing power
+computing systems
+conclusion cognitive
+conclusion cognitive dysfunction
+concomitant diseases
+condition characterized
+confidence interval
+confidence intervals
+confusion matrix
+congestive heart
+congestive heart failure
+consecutive patients
+consensus recommendations
+considerable progress
+constant propagation
+constant values
+content validity
+content validity index
+continuous ambulatory
+continuous ambulatory peritoneal
+continuous ambulatory peritoneal dialysis
+continuous renal
+continuous renal replacement
+continuous renal replacement therapy
+continuous variables
+contrast media
+contrast media agent
+contrast media agent selection
+contrast media exposure
+contrast media volume
+contrast media volume reduction
+contrast media volume reduction strategies
+contrast-induced acute
+contrast-induced acute kidney
+contrast-induced acute kidney injury
+control group
+control groups
+control subjects
+control system
+controlled trial
+controlled trials
+controller design
+conventional methods
+convolution neural
+convolution neural network
+convolutional network
+convolutional neural
+convolutional neural network
+convolutional neural networks
+coronary artery
+coronary artery bypass
+coronary artery bypass grafting
+coronary artery disease
+coronary heart
+coronary heart disease
+coronary intervention
+coronary syndrome
+coronavirus disease
+correct classification
+correct diagnosis
+correctly classified
+correlation analysis
+correlation coefficient
+covid-19 disease
+covid-19 pandemic
+covid-19 patients
+creatinine clearance
+creatinine concentration
+creatinine concentrations
+creatinine level
+creatinine levels
+creatinine ratio
+creatinine values
+creative commons
+critical factors
+critical health
+critical information
+cross validation
+cross-sectional study
+cross-validation technique
+crossmatches kidney
+crossmatches kidney exchanges
+cryptocurrency price
+current approaches
+current diagnostic
+current evidence
+current healthcare
+current literature
+current methods
+current research
+current state
+current status
+current study
+curve analysis
+cut-off values
+cyber-physical systems
+daily activities
+daily clinical
+daily clinical practice
+daily lives
+daily practice
+data-driven approach
+data-driven models
+data-flow problems
+database study
+database system
+dataset feature
+dataset feature selection
+dataset obtained
+deadly disease
+death censored
+death rates
+death-censored graft
+deaths occurred
+deceased donor
+deceased donor kidney
+deceased donor kidney transplant
+deceased donor kidneys
+deceased donors
+decision algorithm
+decision curve
+decision curve analysis
+decision making
+decision process
+decision rules
+decision stump
+decision support
+decision support system
+decision support systems
+decision table
+decision trees
+decision-making algorithm
+decision-making process
+decreased renal
+decreased renal function
+deeper understanding
+delivery system
+demographic characteristics
+density-based clustering
+dependent variable
+deprescribing algorithms
+depth-first search
+detect chronic
+detect chronic kidney
+detect chronic kidney disease
+detecting chronic
+detecting chronic kidney
+detecting chronic kidney disease
+detection algorithm
+detection based
+detection method
+detection methods
+detection system
+detection systems
+develop predictive
+developed based
+developed models
+developing cardiovascular
+developing chronic
+developing chronic kidney
+developing chronic kidney disease
+developing countries
+development dataset
+development environment
+development process
+deviation error
+device called
+diabetes management
+diabetes mellitus
+diabetes mellitus patients
+diabetes treatment
+diabetic kidney
+diabetic kidney disease
+diabetic kidney disease diabetic
+diabetic kidney disease diabetic kidney
+diabetic nephropathy
+diabetic nephropathy background
+diabetic patient
+diabetic patients
+diabetic retinopathy
+diagnose chronic
+diagnose chronic kidney
+diagnose chronic kidney disease
+diagnose kidney
+diagnose patients
+diagnosing chronic
+diagnosing chronic kidney
+diagnosing chronic kidney disease
+diagnosing kidney
+diagnosis accuracy
+diagnosis chronic
+diagnosis chronic kidney
+diagnosis chronic kidney disease
+diagnosis codes
+diagnosis expert
+diagnosis expert system
+diagnosis model
+diagnosis process
+diagnosis system
+diagnostic ability
+diagnostic accuracy
+diagnostic algorithm
+diagnostic algorithms
+diagnostic approach
+diagnostic biomarkers
+diagnostic classification
+diagnostic markers
+diagnostic method
+diagnostic methods
+diagnostic model
+diagnostic models
+diagnostic performance
+diagnostic potential
+diagnostic procedures
+diagnostic system
+diagnostic testing
+diagnostic tools
+dialysate sodium
+dialysis access
+dialysis adequacy
+dialysis center
+dialysis centers
+dialysis clinics
+dialysis facilities
+dialysis initiation
+dialysis machine
+dialysis modality
+dialysis patient
+dialysis patients
+dialysis population
+dialysis procedure
+dialysis sessions
+dialysis therapy
+dialysis treatment
+dialysis units
+diastolic blood
+diastolic blood pressure
+diastolic dysfunction
+differential diagnosis
+differential expression
+differentially expressed
+differentially expressed genes
+differentially expressed mirnas
+digital health
+digital x-ray
+dimension reduction
+dimensionality reduction
+dipeptidyl peptidase
+directed acyclic
+directly related
+discovery process
+discrete event
+discriminant analysis
+discussed include
+disease background
+disease based
+disease burden
+disease chronic
+disease chronic kidney
+disease chronic kidney disease
+disease classification
+disease control
+disease dataset
+disease datasets
+disease detection
+disease diabetic
+disease diabetic kidney
+disease diabetic kidney disease
+disease diagnosis
+disease diagnosis system
+disease early
+disease epidemiology
+disease epidemiology collaboration
+disease identification
+disease kidney
+disease management
+disease monitoring
+disease objective
+disease onset
+disease outcomes
+disease patients
+disease patients objective
+disease population
+disease prediction
+disease prediction chronic
+disease prediction chronic kidney
+disease prediction chronic kidney disease
+disease prevention
+disease progression
+disease related
+disease remains
+disease severity
+disease stage
+disease stages
+disease trajectory
+disease treatment
+disease worldwide
+diseases based
+diseases detection
+disorder detection
+distinct groups
+distributed computing
+domain experts
+domain knowledge
+dominant polycystic
+dominant polycystic kidney
+dominant polycystic kidney disease
+donated kidneys
+donor kidney
+donor kidney transplant
+donor kidneys
+donor nephrectomy
+donor organ
+donor organs
+donor-patient pairs
+doppler ultrasound
+doses based
+dosing algorithm
+downregulated genes
+dynamic programming
+earlier stage
+earlier stages
+early detection
+early diagnosis
+early identification
+early prediction
+early recognition
+early signs
+early stage
+early stages
+early warning
+economic burden
+editor performs
+effective classification
+effective feature
+effective hemodialysis
+effective hemodialysis performed
+effective method
+effective prediction
+effective treatment
+effectively improve
+effectively predict
+effects model
+efficient computation
+efficient prediction
+efficient system
+ejection fraction
+elderly patients
+electronic health
+electronic health record
+electronic health records
+electronic medical
+electronic medical record
+electronic medical records
+elevated blood
+elevated blood pressure
+elsevier masson
+embedded systems
+emerald publishing
+emerald publishing limited
+emergency department
+emerging technologies
+empirical results
+empirical study
+encryption technique
+end-stage chronic
+end-stage chronic kidney
+end-stage chronic kidney disease
+end-stage disease
+end-stage kidney
+end-stage kidney disease
+end-stage renal
+end-stage renal disease
+end-stage renal disease patients
+end-stage renal disease patients objective
+end-stage renal diseases
+end-stage renal failure
+endothelial dysfunction
+endothelial growth
+endothelial growth factor
+energy consumption
+energy efficiency
+energy-aware service
+engineering research
+enrichment analyses
+enrichment analysis
+ensemble classifier
+ensemble learning
+ensemble machine
+ensemble machine learning
+ensemble method
+ensemble methods
+ensemble model
+entity recognition
+epidemiological studies
+epidemiology collaboration
+erythropoiesis stimulating
+erythropoiesis stimulating agents
+erythropoiesis-stimulating agents
+estimate glomerular
+estimate glomerular filtration
+estimated blood
+estimated glomerular
+estimated glomerular filtration
+ethics committee
+european guidelines
+european society
+evaluate renal
+evaluated based
+evaluation metrics
+evaluation results
+evaluation shows
+evidence suggests
+evolutionary computation
+examples include
+exchange instances
+exchange programs
+exclusive licence
+exclusive license
+execution times
+exhaled breath
+existing algorithms
+existing approaches
+existing literature
+existing methods
+existing models
+existing techniques
+existing works
+expanded criteria
+experiment results
+experimental result
+experimental results
+experimental results demonstrate
+experimental results reveal
+experimental study
+experimental validation
+experiments conducted
+experiments demonstrate
+expert knowledge
+expert panel
+expert system
+expert systems
+exploratory analysis
+exploratory study
+expressed genes
+expressed mirnas
+expression analysis
+expression datasets
+expression levels
+expression omnibus
+expression omnibus database
+expression profile
+expression profiles
+expression profiling
+extensive experimental
+extensive experimental results
+extensive experimentation
+extensive experiments
+extensive simulation
+external knowledge
+external validation
+externally validated
+extracellular matrix
+extracting information
+extracting knowledge
+extraction techniques
+extreme gradient
+extreme gradient boosting
+extreme learning
+extreme learning machine
+facial expressions
+factor analysis
+factors affecting
+factors contributing
+factors influencing
+failure disease
+failure patients
+false positive
+family history
+fatty acids
+feasible approach
+feature construction
+feature elimination
+feature extraction
+feature extraction techniques
+feature fusion
+feature importance
+feature importance techniques
+feature reduction
+feature selection
+feature selection algorithm
+feature selection algorithms
+feature selection approach
+feature selection based
+feature selection method
+feature selection methods
+feature selection process
+feature selection technique
+feature selection techniques
+feature space
+feature subset
+feature subsets
+features based
+features selected
+features selection
+feedback control
+female gender
+fibroblast growth
+fibroblast growth factor
+filter based
+filtration rates
+final diagnosis
+final model
+final stage
+findings suggest
+findings support
+finite sample
+firefly optimization
+fitness function
+flow-insensitive side-effect
+flow-insensitive side-effect analysis
+flow-insensitive side-effect analysis problem
+flower pollination
+flower pollination algorithm
+fluid balance
+fluid dynamics
+fluid management
+fluid overload
+fluid removal
+fluid status
+fluid volume
+focus groups
+follow-up period
+forest algorithm
+forest classifier
+forest method
+forest model
+forest models
+fortran compiler
+fourier transform
+frame rates
+framework called
+francis group
+frequency domain
+frontal gyrus
+fully searchable
+fully understood
+function impairment
+function network
+function outcomes
+functional magnetic
+functional magnetic resonance
+functional magnetic resonance imaging
+functional outcomes
+future directions
+future disease
+future research
+future studies
+fuzzy c-means
+fuzzy clustering
+fuzzy inference
+fuzzy inference system
+fuzzy logic
+fuzzy logic approach
+fuzzy modeling
+fuzzy neural
+fuzzy neural networks
+fuzzy system
+gaussian radial
+gaussian radial basis
+general algorithm
+general hospital
+general population
+general practice
+general practitioner
+general practitioners
+generation model
+generative adversarial
+generative adversarial networks
+generative model
+generic model
+genetic algorithm
+genetic algorithms
+genetic search
+genetic testing
+gestational diabetes
+gestational diabetes mellitus
+gibbs sampling
+global assessment
+global burden
+global health
+global health problem
+global image
+global outcomes
+global population
+global public
+global public health
+global register
+global register allocation
+glomerular disease
+glomerular diseases
+glomerular filtration
+glomerular filtration rates
+glomerular hypertrophy
+glomerular tissues
+glomerular volume
+glucagon-like peptide
+glucagon-like peptide-1
+glucagon-like peptide-1 receptor
+glucagon-like peptide-1 receptor agonists
+glucose level
+glycaemic control
+glycated hemoglobin
+glycemic control
+gradient boosting
+gradient descent
+graft failure
+graft function
+graft survival
+graph coloring
+graph coloring register
+graph coloring register allocation
+graph neural
+graph theory
+graph-coloring register
+graph-coloring register allocation
+graph-coloring register allocator
+graphics hardware
+great importance
+great potential
+great success
+greater understanding
+greatly improved
+ground truth
+group communication
+group compared
+group consisted
+group developed
+group included
+group including
+group including bilateral
+group including bilateral middle
+group including bilateral middle frontal
+growing interest
+growing number
+growth factor
+growth factor-β
+growth factors
+guide clinical
+guidelines recommend
+haemodialysis patients
+haemodialysis treatments
+haemoglobin level
+haemoglobin levels
+handle missing
+handling missing
+hazard ratio
+hazard ratios
+hazards model
+hazards models
+hazards regression
+health complications
+health concern
+health condition
+health conditions
+health crisis
+health industry
+health informatics
+health information
+health insurance
+health issue
+health issues
+health management
+health monitoring
+health organization
+health outcomes
+health policies
+health policy
+health problem
+health problem worldwide
+health problems
+health professionals
+health record
+health records
+health related
+health service
+health services
+health status
+health system
+health systems
+health-related quality
+healthcare applications
+healthcare costs
+healthcare delivery
+healthcare domain
+healthcare industry
+healthcare informatics
+healthcare information
+healthcare monitoring
+healthcare practitioners
+healthcare professionals
+healthcare providers
+healthcare records
+healthcare resources
+healthcare sector
+healthcare services
+healthcare system
+healthcare systems
+healthy controls
+healthy individuals
+healthy people
+healthy persons
+healthy subjects
+healthy volunteers
+heart attack
+heart disease
+heart disease dataset
+heart diseases
+heart failure
+heart failure patients
+heavy burden
+helpful information
+hemodialysis centers
+hemodialysis patient
+hemodialysis patients
+hemodialysis patients background
+hemodialysis performed
+hemodialysis population
+hemodialysis session
+hemodialysis sessions
+hemodialysis therapy
+hemodialysis treatment
+hemodynamic effects
+hemodynamic stability
+hemodynamic tolerance
+hemoglobin concentrations
+hemoglobin level
+hemoglobin levels
+hemoglobin response
+hemoglobin values
+hepatocellular carcinoma
+herbal medicine
+heuristic introduced
+heuristic produces
+hidden information
+hidden layer
+hidden layers
+hidden patterns
+hierarchical clustering
+high-level design
+high-level features
+high-risk groups
+high-risk individuals
+high-risk patients
+higher accuracy
+higher mortality
+higher number
+higher prediction
+higher prevalence
+highest accuracy
+highly correlated
+highly recommended
+highly sensitized
+hilar clamping
+hospital admission
+hospital admissions
+hospital discharge
+hospital length
+hospital mortality
+hospital readmission
+hospital resources
+hospitalization rates
+hospitalized patients
+human beings
+human breath
+human diseases
+human experts
+human factors
+human health
+human kidney
+human leukocyte
+human leukocyte antigen
+human movement
+hybrid ensemble
+hybrid feature
+hybrid framework
+hybrid model
+hyperdimensional computing
+hypertension management
+hypertension treatment
+hypertensive nephropathy
+hypertensive patients
+identify at-risk
+identify chronic
+identify chronic kidney
+identify chronic kidney disease
+identify factors
+identify patients
+identify potential
+identify predictors
+identifying high-risk
+identifying patients
+iliac fossa
+image analysis
+image classification
+image features
+image processing
+image quality
+image segmentation
+images based
+images chronic
+images chronic kidney
+images chronic kidney disease
+imaging marker
+imaging modality
+imbalance problem
+imbalanced class
+immune cells
+immune infiltration
+immune response
+immune system
+immunosuppressive therapy
+impaired kidney
+impaired kidney function
+impaired renal
+impaired renal function
+implementation requirements
+importance techniques
+important aspects
+important attributes
+important challenge
+important factor
+important factors
+important features
+important predictors
+important public
+important public health
+important variables
+improve outcomes
+improve patient
+improve performance
+improve prediction
+improve quality
+improved accuracy
+improved comparative
+improved comparative model
+improved health
+improved health outcomes
+improved patient
+improved survival
+improves performance
+improving global
+improving global outcomes
+improving medical
+in-hospital mortality
+incidence rates
+incident hemodialysis
+included baseline
+included patients
+including bilateral
+including bilateral middle
+including bilateral middle frontal
+including bilateral middle frontal gyrus
+including cardiovascular
+including chronic
+including dialysis
+including logistic
+including logistic regression
+including serum
+including serum creatinine
+inclusion criteria
+incompatible donor-patient
+incompatible donor-patient pairs
+incompatible donors
+increased cardiovascular
+increased morbidity
+increased mortality
+increasing complexity
+increasing incidence
+increasing interest
+increasing number
+increasing prevalence
+increasingly important
+independent predictor
+independent predictors
+independent validation
+independent variables
+inderscience enterprises
+india publications
+indication biopsies
+individual classifiers
+individual patient
+individual patients
+individual procedures
+individuals based
+infectious complications
+infectious disease
+infectious diseases
+inference attacks
+inference system
+inferior frontal
+inferior frontal gyrus
+influence patient
+information mining
+information network
+information retrieval
+information science
+information sharing
+information system
+information systems
+information technology
+informed consent
+initial experience
+initial results
+initial stage
+inpatient sample
+input distributions
+input domain
+input features
+input images
+input variables
+insensitive interprocedural
+insensitive interprocedural summary
+insensitive interprocedural summary information
+institutional review
+institutional review board-approved
+insulin infusion
+insulin resistance
+intact parathyroid
+intact parathyroid hormone
+integer linear
+integer linear programming
+integer programming
+intelligence algorithms
+intelligence approaches
+intelligence technique
+intelligence techniques
+intelligent diagnosis
+intelligent system
+intelligent systems
+interacting genes
+interaction network
+interesting option
+interference graph
+intermediate representation
+internal medicine
+internal validation
+international classification
+international conference
+international experts
+international journal
+international publishing
+international publishing switzerland
+international symposium
+interprocedural analysis
+interprocedural constant
+interprocedural constant propagation
+interprocedural side-effect
+interprocedural side-effect analysis
+interprocedural summary
+interprocedural summary information
+interquartile range
+interstitial fibrosis
+interval bounds
+intervention strategies
+interventional cardiology
+intradialytic hypotension
+intraoperative complications
+intravascular volume
+invasive approaches
+invasive diagnostic
+invasive surgeries
+invasive surgery
+invasive surgical
+inverse probability
+iodinated contrast
+iodinated contrast media
+iodinated contrast media exposure
+ionized calcium
+irrelevant features
+ischemic heart
+ischemic heart disease
+ischemic stroke
+ismail saritas
+issues affecting
+izdatelskaya kompaniya
+k-fold cross-validation
+k-means clustering
+k-means clustering algorithm
+k-nearest neighbor
+k-nearest neighbors
+k-nearest neighbour
+k-nearest neighbours
+kaplan-meier analysis
+kaplan-meier curves
+kaplan-meier survival
+kaplan-meier survival analysis
+kernel distribution
+kernel function
+kidney allocation
+kidney allocation algorithm
+kidney allograft
+kidney biopsy
+kidney center
+kidney damage
+kidney dataset
+kidney development
+kidney dialysis
+kidney disease
+kidney disease background
+kidney disease based
+kidney disease chronic
+kidney disease chronic kidney
+kidney disease chronic kidney disease
+kidney disease classification
+kidney disease dataset
+kidney disease datasets
+kidney disease detection
+kidney disease diabetic
+kidney disease diabetic kidney
+kidney disease diabetic kidney disease
+kidney disease diagnosis
+kidney disease early
+kidney disease epidemiology
+kidney disease epidemiology collaboration
+kidney disease kidney
+kidney disease objective
+kidney disease patients
+kidney disease prediction
+kidney disease prediction chronic
+kidney disease prediction chronic kidney
+kidney disease progression
+kidney disease stage
+kidney disease stages
+kidney diseases
+kidney disorders
+kidney donation
+kidney donor
+kidney dysfunction
+kidney exchange
+kidney exchange instances
+kidney exchange programs
+kidney exchanges
+kidney failure
+kidney failure disease
+kidney foundation
+kidney function
+kidney functions
+kidney graft
+kidney health
+kidney illness
+kidney image
+kidney images
+kidney injury
+kidney outcomes
+kidney paired
+kidney paired donation
+kidney patient
+kidney patients
+kidney problem
+kidney problems
+kidney recipients
+kidney related
+kidney replacement
+kidney replacement therapy
+kidney segmentation
+kidney stone
+kidney stones
+kidney tissue
+kidney tissues
+kidney transplant
+kidney transplant background
+kidney transplant biopsies
+kidney transplant patients
+kidney transplant recipient
+kidney transplant recipients
+kidney transplantation
+kidney transplants
+kidney volume
+kluwer health
+knowledge acquisition
+knowledge based
+knowledge bases
+knowledge discovery
+knowledge distillation
+knowledge graph
+knowledge graphs
+knowledge representation
+knowledge transfer
+kyoto encyclopedia
+laboratory measurements
+laboratory patient
+laboratory studies
+laboratory tests
+laboratory values
+language processing
+laparoscopic nephrectomy
+laparoscopic partial
+laparoscopic partial nephrectomy
+laparoscopic radical
+laparoscopic radical prostatectomy
+laparoscopic versus
+large amount
+large amounts
+large cohort
+large dataset
+large datasets
+large kidney
+large kidney exchange
+large kidney exchange instances
+large number
+large scale
+large volume
+large-scale electronic
+large-scale electronic health
+latent variable
+latest advances
+lattice structures
+layer perceptron
+learning algorithm
+learning algorithms
+learning applications
+learning approach
+learning approach background
+learning approaches
+learning background
+learning based
+learning chronic
+learning chronic kidney
+learning chronic kidney disease
+learning classification
+learning classification techniques
+learning classifier
+learning classifiers
+learning curve
+learning framework
+learning machine
+learning mechanism
+learning method
+learning methods
+learning model
+learning models
+learning network
+learning prediction
+learning process
+learning repository
+learning strategies
+learning system
+learning tasks
+learning technique
+learning techniques
+learning technology
+learning-based algorithms
+leave-one-out cross-validation
+lessons learned
+leukocyte antigen
+likert scale
+limitations include
+limited resources
+linear combination
+linear constraints
+linear discriminant
+linear discriminant analysis
+linear programming
+linear regression
+lipoprotein cholesterol
+literature review
+literature search
+liver cancer
+liver disease
+liver function
+liver transplant
+liver transplantation
+living donor
+living donor kidney
+living donors
+living kidney
+local analysis
+local feature
+local minima
+localized prostate
+localized prostate cancer
+localized renal
+logic approach
+logistic regression
+logistic regression analyses
+logistic regression analysis
+logistic regression model
+long-term clinical
+long-term complications
+long-term dialysis
+long-term effects
+long-term follow-up
+long-term graft
+long-term graft survival
+long-term hemodialysis
+long-term hemodialysis patients
+long-term mortality
+long-term outcome
+long-term outcomes
+long-term prognosis
+long-term renal
+long-term survival
+longer duration
+low-density lipoprotein
+low-frequency fluctuation
+lower bound
+lower bounds
+lower extremity
+lower order
+lower order terms
+lumbar spine
+lupus erythematosus
+lupus nephritis
+machine algorithm
+machine learning
+machine learning algorithm
+machine learning algorithms
+machine learning applications
+machine learning approach
+machine learning approach background
+machine learning approaches
+machine learning based
+machine learning chronic
+machine learning chronic kidney
+machine learning chronic kidney disease
+machine learning classification
+machine learning classification techniques
+machine learning classifiers
+machine learning method
+machine learning methods
+machine learning model
+machine learning models
+machine learning repository
+machine learning strategies
+machine learning technique
+machine learning techniques
+machine learning-based
+machine learning-based algorithms
+machine-learning approach
+machine-learning model
+magnetic resonance
+magnetic resonance angiography
+magnetic resonance imaging
+maintenance dialysis
+maintenance hemodialysis
+maintenance hemodialysis patients
+major advances
+major cardiovascular
+major challenge
+major complications
+major concern
+major factor
+major health
+major issue
+major medical
+major problem
+major public
+major public health
+majority class
+manage patients
+management algorithm
+management algorithms
+management framework
+management options
+management protocol
+management protocols
+management strategy
+management system
+management systems
+managing patients
+markov chain
+markov decision
+markov decision process
+matched patient
+mathematical modeling
+mathematical models
+matlab platform
+matrix factorization
+maximum likelihood
+measurement accuracy
+mechanisms remain
+mechanisms underlying
+media agent
+media agent selection
+media exposure
+media volume
+media volume reduction
+media volume reduction strategies
+medial frontal
+medial frontal gyrus
+median estimated
+median follow-up
+medical association
+medical center
+medical codes
+medical concepts
+medical condition
+medical conditions
+medical dataset
+medical datasets
+medical decision
+medical decision making
+medical decision-making
+medical devices
+medical diagnosis
+medical domain
+medical emergency
+medical equipment
+medical experts
+medical field
+medical histories
+medical history
+medical image
+medical images
+medical imaging
+medical industry
+medical information
+medical interventions
+medical issues
+medical knowledge
+medical management
+medical practice
+medical practitioners
+medical professionals
+medical record
+medical records
+medical research
+medical science
+medical sciences
+medical staff
+medical things
+medical treatment
+medical university
+medicare beneficiaries
+medicare claims
+medication adherence
+medico-economical point
+mellitus patients
+membership functions
+membership inference
+membership inference attacks
+membranous nephropathy
+memory neural
+memory operations
+memory system
+mental health
+metabolic disorders
+metabolic syndrome
+method achieved
+method achieves
+method based
+method outperforms
+method performs
+methods based
+methods require
+methods totally
+microarray analysis
+microvascular complication
+middle frontal
+middle frontal gyrus
+middle occipital
+middle occipital gyrus
+middle temporal
+middle temporal gyrus
+million patients
+million people
+mineral density
+mineral metabolism
+mineralocorticoid receptor
+mineralocorticoid receptor antagonists
+miniaturizing devices
+minimally invasive
+minimally invasive surgeries
+minimally invasive surgery
+mining algorithm
+mining algorithms
+mining application
+mining approach
+mining based
+mining classification
+mining classifiers
+mining methods
+mining technique
+mining techniques
+minority class
+minority oversampling
+missing values
+mixed integer
+mobile ad-hoc
+mobile ad-hoc networks
+mobile application
+mobile phone
+model achieved
+model achieves
+model approach
+model based
+model calibration
+model compression
+model demonstrated
+model developed
+model development
+model outperformed
+model outperforms
+model parameters
+model performance
+model performs
+model predictive
+model predictive control
+model selection
+model training
+modeling approach
+modeling method
+modeling results
+models based
+models developed
+modern medicine
+modern methods
+modified heuristic
+modified heuristic produces
+molecular diagnostics
+molecular mechanism
+molecular mechanisms
+molecular mechanisms underlying
+molecular signature
+monitoring device
+monitoring system
+monitoring systems
+monte carlo
+montreal cognitive
+montreal cognitive assessment
+morbidity rates
+morbidly obese
+mortality prediction
+mortality prediction models
+mortality rates
+mortality related
+mortality worldwide
+mouse model
+multi layer
+multi layer perceptron
+multi-input multi-output
+multi-label classification
+multi-layer perceptron
+multi-task learning
+multilayer perceptron
+multilevel covariates
+multiple chronic
+multiple comorbidities
+multiple imputation
+multiple machine
+multivariable analyses
+multivariable analysis
+multivariable logistic
+multivariable logistic regression
+multivariate analyses
+multivariate analysis
+multivariate logistic
+multivariate logistic regression
+multivariate regression
+multivariate regression analysis
+music recommendation
+music recommendation system
+mutual information
+myocardial infarction
+naive bayes
+naïve bayes
+naïve bayes classification
+naive bayes classifier
+named chronic
+named chronic kidney
+naranjo algorithm
+narrative review
+national academy
+national diabetes
+national health
+national health insurance
+national institute
+national kidney
+national kidney foundation
+nationwide population-based
+natriuretic peptide
+natural language
+natural language processing
+nature singapore
+nature switzerland
+nearest neighbor
+nearest neighbors
+nearest neighbour
+negative cases
+negative effect
+negative impact
+negative likelihood
+negative outcomes
+negative predictive
+negative surgical
+negative surgical margins
+negatively correlated
+nephropathy background
+nephrotic syndrome
+nervous system
+network achieved
+network algorithm
+network analysis
+network approach
+network architecture
+network based
+network classifier
+network method
+network model
+network models
+network parameters
+network pharmacology
+network technique
+neural activity
+neural models
+neural network
+neural network algorithm
+neural network architecture
+neural network based
+neural network classifier
+neural network method
+neural network model
+neural network models
+neural network technique
+neural network-based
+neural networks
+new-onset chronic
+new-onset chronic kidney
+new-onset chronic kidney disease
+newly diagnosed
+newly introduced
+noisy and inconsistent
+noisy and inconsistent values
+noisy and inconsistent values of uci
+noisy and inconsistent values of uci dataset
+non-invasive diagnosis
+non-linear relationships
+noninvasive cardiac
+nonlinear regression
+normal kidney
+normal renal
+normal renal function
+normal samples
+normal subjects
+nuclear magnetic
+nuclear magnetic resonance
+nucleotide polymorphisms
+numerous machine
+numerous machine learning
+nutritional deficiencies
+nutritional status
+obese patients
+obese recipients
+objective function
+observational cohort
+observational studies
+observational study
+obstacle remains
+obstacle remains ageing
+obstructive pulmonary
+obstructive pulmonary disease
+obstructive sleep
+obstructive sleep apnea
+obtained results
+occipital gyrus
+of uci dataset
+older adults
+older patients
+older people
+omnibus database
+oncologic outcomes
+ontology enrichment
+operating characteristic
+operating characteristic curve
+operating system
+operative parameters
+optimal feature
+optimal feature selection
+optimal features
+optimal management
+optimal number
+optimal subset
+optimal treatment
+optimization algorithm
+optimization algorithms
+optimization approaches
+optimization method
+optimization problem
+optimization sequences
+optimization technique
+optimization techniques
+optimizing compilers
+order terms
+organ allocation
+organ damage
+organ dysfunction
+organ injury
+organ sharing
+organ transplantation
+outcome measurements
+outcome measures
+outcome prediction
+outcome trials
+outcomes background
+outcomes compared
+outcomes including
+output variable
+oxygen saturation
+paired donation
+pancreatic cancer
+paper deals
+paper describes
+paper discusses
+paper examines
+paper focuses
+paper introduces
+paper presents
+paper proposes
+paper proves
+paper shows
+paradigm shift
+parallel algorithms
+parameter values
+paramount importance
+parathyroid hormone
+partial nephrectomies
+partial nephrectomy
+particle swarm
+particle swarm optimization
+pathogenic mechanisms
+pathophysiological mechanisms
+pathway analysis
+pathway enrichment
+patient characteristics
+patient cohort
+patient features
+patient group
+patient groups
+patient health
+patient hospitalization
+patient information
+patient management
+patient monitoring
+patient monitoring system
+patient mortality
+patient outcome
+patient outcomes
+patient population
+patient populations
+patient records
+patient safety
+patient selection
+patient survival
+patients admitted
+patients affected
+patients background
+patients based
+patients chronic
+patients developed
+patients diagnosed
+patients experienced
+patients frequently
+patients identified
+patients included
+patients objective
+patients presented
+patients presenting
+patients received
+patients receiving
+patients receiving treatment
+patients referred
+patients requiring
+patients showed
+patients suffer
+patients suffering
+patients treated
+patients undergoing
+patients undergoing dialysis
+patients undergoing haemodialysis
+patients undergoing hemodialysis
+patients undergoing robotic
+patients undergoing robotic partial
+patients undergoing robotic partial nephrectomy
+patients underwent
+pattern recognition
+pearson correlation
+pearson correlation analysis
+pediatric patients
+people worldwide
+peptide-1 receptor
+peptide-1 receptor agonists
+percentage change
+percentage error
+percutaneous coronary
+percutaneous coronary intervention
+percutaneous transluminal
+perform software
+perform software pipelining
+performance analysis
+performance compared
+performance comparison
+performance evaluation
+performance measurement
+performance measures
+performance metrics
+performance parameters
+perioperative complications
+perioperative outcomes
+peripheral arterial
+peripheral artery
+peripheral artery disease
+peripheral blood
+peritoneal dialysis
+peritoneal dialysis patients
+personalized medicine
+personalized treatment
+personalized treatment schedules
+phosphate binder
+phosphate binders
+physical activity
+physical examination
+physiological parameters
+pilot study
+plasma levels
+policy makers
+pollination algorithm
+polycystic kidney
+polycystic kidney disease
+polymerase chain
+polymerase chain reaction
+poorly controlled
+poorly understood
+population health
+population worldwide
+population-based cohort
+positive correlation
+positive likelihood
+positive margins
+positive predictive
+positive predictive values
+positive surgical
+positive surgical margin
+positive surgical margins
+positively correlated
+posterior inference
+postoperative complications
+postoperative outcomes
+postoperative renal
+postoperative renal function
+potassium levels
+potential biomarkers
+potential candidate
+potential predictors
+potential relationships
+potential targets
+power consumption
+power optimally
+powerful approach
+practical clinical
+practical implementation
+practice guidelines
+practice patterns
+pre-processing techniques
+precision medicine
+predict chronic
+predict chronic kidney
+predict chronic kidney disease
+predict diabetes
+predict disease
+predict future
+predict graft
+predict kidney
+predict kidney disease
+predict mortality
+predict renal
+predicted survival
+predicting chronic
+predicting chronic kidney
+predicting chronic kidney disease
+predicting chronic kidney failure
+predicting chronic kidney failure disease
+predicting disease
+predicting kidney
+predicting survival
+prediction accuracy
+prediction algorithm
+prediction chronic
+prediction chronic kidney
+prediction chronic kidney disease
+prediction framework
+prediction method
+prediction model
+prediction models
+prediction performance
+prediction results
+prediction system
+prediction techniques
+prediction tools
+predictive ability
+predictive accuracy
+predictive analysis
+predictive analytics
+predictive control
+predictive factors
+predictive model
+predictive modeling
+predictive models
+predictive performance
+predictive values
+predictors included
+pregnant women
+preliminary results
+preoperative estimated
+preoperative estimated glomerular
+preoperative estimated glomerular filtration
+present experimental
+present research
+present results
+present study
+present study aimed
+presented results
+presents experimental
+pressure control
+pressure monitoring
+pressure ulcers
+prevalent hemodialysis
+prevalent hemodialysis patients
+prevent cardiovascular
+preventing chronic
+preventing chronic kidney
+preventing chronic kidney disease
+preventive measures
+previous approaches
+previous guidelines
+previous research
+previous studies
+previously published
+previously reported
+previously unknown
+previously validated
+primary diagnosis
+primary disease
+primary endpoint
+primary objective
+primary outcome
+primary prevention
+principal component
+principal component analysis
+principal components
+principle significantly
+prior knowledge
+prior research
+privacy concerns
+privacy issues
+privacy preservation
+privacy protection
+probabilistic neural
+probabilistic programming
+probabilistic programs
+probabilistic software
+probabilistic software analysis
+problem solving
+problem worldwide
+problems related
+procedural aspects
+procedural aspects linked
+procedure codes
+processing algorithms
+processing methods
+processing techniques
+prognostic factors
+prognostic model
+programming environment
+programming language
+programming languages
+progression background
+progression patterns
+progression prediction
+progressive chronic
+progressive chronic kidney
+progressive chronic kidney disease
+progressive decline
+progressive renal
+proinflammatory reactions
+promising performance
+promising result
+promising results
+propagation neural
+propagation neural network
+propagation neural network algorithm
+propensity score
+propensity score matching
+propensity score-matched
+proper healthcare
+proper treatment
+proportional hazards
+proportional hazards model
+proportional hazards regression
+proposed algorithm
+proposed approach
+proposed approaches
+proposed based
+proposed classifier
+proposed feature
+proposed framework
+proposed hybrid
+proposed method
+proposed method achieved
+proposed method outperforms
+proposed methodology
+proposed model
+proposed model achieves
+proposed procedure
+proposed research
+proposed system
+proposed technique
+prospective cohort
+prospective observational
+prospective observational study
+prospective studies
+prospective study
+prospective validation
+prospectively collected
+prospectively maintained
+prostate cancer
+protective effect
+protein kinase
+protein-protein interaction
+proteins involved
+proteome analysis
+prototype implementation
+prototype system
+provide accurate
+provide evidence
+provide imaging
+provide imaging marker
+provide information
+provide insights
+provide reliable
+proximal tubular
+public health
+public health concern
+public health problem
+public hospital
+published literature
+published studies
+publishing company
+publishing group
+publishing house
+publishing limited
+publishing switzerland
+pulmonary artery
+pulmonary disease
+pulmonary hypertension
+python programming
+python programming language
+q-learning algorithm
+qualitative analysis
+qualitative study
+quality improvement
+quantitative analysis
+radial basis
+radial basis function
+radial basis function network
+radiation exposure
+radiative transfer
+radical cystectomy
+radical nephrectomy
+radical prostatectomy
+raman spectra
+raman spectroscopy
+random effects
+random forest
+random forest algorithm
+random forest classifier
+random forest method
+random forest model
+random forest models
+random forests
+random large
+random large kidney
+random large kidney exchange
+random large kidney exchange instances
+randomized clinical
+randomized clinical trials
+randomized controlled
+randomized controlled trials
+randomized trial
+randomized trials
+randomly assigned
+randomly divided
+randomly selected
+ranking method
+rapid progression
+rapidly developing
+real-time frame
+real-time frame rates
+real-world applications
+real-world datasets
+reasonable strategies
+receiver operating
+receiver operating characteristic
+receiver operating characteristic curve
+receiver-operating characteristic
+receiver-operating characteristic curve
+receiving renal
+receiving renal replacement
+receiving renal replacement therapy
+receiving treatment
+recent advances
+recent findings
+recent studies
+recent techniques
+recent times
+recent years
+recently developed
+receptor agonists
+receptor antagonists
+receptor blocker
+receptor signaling
+recombinant human
+recommendation based
+recommendation system
+recurrence-free survival
+recurrent neural
+recurrent neural network
+recurrent neural networks
+recursive feature
+recursive feature elimination
+reduced blood
+reduced feature
+reduced features
+reduced kidney
+reduced renal
+reduction ratio
+reduction strategies
+redundancy elimination
+redundant features
+regional citrate
+regional citrate anticoagulation
+regional hypothermia
+register allocation
+register allocator
+regression algorithm
+regression analyses
+regression analysis
+regression model
+regression models
+regression techniques
+regularization technique
+reinforcement learning
+rejection episodes
+related complications
+related operations
+related works
+relative blood
+relative blood volume
+relevant features
+relevant variables
+remain unclear
+remains ageing
+remains controversial
+remains unclear
+remote sensing
+renal allograft
+renal artery
+renal biopsies
+renal biopsy
+renal cancer
+renal complications
+renal cortical
+renal damage
+renal dialysis
+renal disease
+renal disease background
+renal disease patients
+renal disease patients objective
+renal diseases
+renal dysfunction
+renal events
+renal failure
+renal failure patients
+renal fibrosis
+renal function
+renal function impairment
+renal function outcomes
+renal functional
+renal functional outcomes
+renal functions
+renal histology
+renal histopathology
+renal impairment
+renal injury
+renal insufficiency
+renal lesions
+renal masses
+renal outcome
+renal outcomes
+renal pathology
+renal patients
+renal recovery
+renal replacement
+renal replacement therapy
+renal score
+renal support
+renal survival
+renal transplant
+renal transplant recipients
+renal transplantation
+renal tumors
+renal ultrasound
+renin angiotensin
+renin angiotensin aldosterone
+renin angiotensin aldosterone system
+renin-angiotensin system
+renin-angiotensin-aldosterone system
+repeated measures
+repeated observations
+replacement therapy
+report introduction
+require dialysis
+require renal
+require renal replacement
+require renal replacement therapy
+requiring dialysis
+requiring intervention
+requiring renal
+requiring renal replacement
+requiring renal replacement therapy
+research areas
+research centre
+research community
+research group
+research india
+research india publications
+research paper
+research presents
+research proposes
+research purposes
+research study
+research suggests
+resilient modulus
+resistant hypertension
+resonance angiography
+resonance imaging
+resource allocation
+resource utilization
+respiratory disease
+respiratory distress
+result obtained
+result shows
+results compared
+results concluded
+results demonstrate
+results demonstrated
+results exhibit
+results obtained
+results provide
+results reveal
+results revealed
+results showed
+results suggest
+retinal vascular
+retrieval based
+retrospective analysis
+retrospective cohort
+retrospective cohort study
+retrospective cohort study including
+retrospective observational
+retrospective observational study
+retrospective review
+retrospective study
+retrospectively analyzed
+retrospectively reviewed
+review article
+review background
+review board
+review board-approved
+review paper
+rheumatoid arthritis
+rights reserved
+robot-assisted kidney
+robot-assisted kidney transplantation
+robot-assisted laparoscopic
+robot-assisted laparoscopic partial
+robot-assisted laparoscopic partial nephrectomy
+robot-assisted laparoscopic radical
+robot-assisted laparoscopic radical prostatectomy
+robot-assisted laparoscopic versus
+robot-assisted partial
+robot-assisted partial nephrectomy
+robot-assisted radical
+robot-assisted radical cystectomy
+robotic kidney
+robotic kidney transplantation
+robotic partial
+robotic partial nephrectomy
+robotic surgery
+robotic technology
+robotic-assisted kidney
+robotic-assisted kidney transplantation
+routine clinical
+routine clinical practice
+routine diagnostic
+routine health
+routinely collected
+routing protocols
+scheme based
+science press
+science publishers
+scientific publishing
+scientific publishing company
+scientific research
+scoping review
+score matching
+scores calculated
+scoring system
+screening based
+search algorithm
+search methods
+search space
+secondary hyperparathyroidism
+secondary outcomes
+secondary prevention
+secure group
+selected based
+selected features
+selected patients
+selection algorithm
+selection algorithms
+selection approach
+selection approaches
+selection based
+selection method
+selection methods
+selection operator
+selection process
+selection technique
+selection techniques
+semantic information
+sense disambiguation
+sensitive information
+sensitivity analysis
+sensor network
+sensor networks
+sentiment analysis
+separately compiled
+separately compiled procedures
+series analysis
+serum albumin
+serum creatinine
+serum creatinine concentration
+serum creatinine level
+serum creatinine levels
+serum levels
+serum phosphorus
+serum potassium
+service composition
+service management
+service providers
+severe chronic
+severe chronic kidney
+severe chronic kidney disease
+severe condition
+severe disease
+severe diseases
+severe hypoglycemia
+severe kidney
+severe outcomes
+severe renal
+severity level
+severity stage
+sex-matched healthy
+sex-matched healthy controls
+sglt2 inhibitors
+shapley additive
+short-term memory
+showed higher
+showed statistically
+shunt stenosis
+side-effect analysis
+side-effect analysis problem
+signal analysis
+signal processing
+signaling pathway
+signaling pathways
+signals based
+significant advances
+significant associations
+significant correlation
+significant design
+significant difference
+significant differences
+significant impact
+significant improvement
+significant improvements
+significant increase
+significant morbidity
+significant performance
+significant portion
+significant predictors
+significant proportion
+significant reduction
+significantly decreased
+significantly enriched
+significantly higher
+significantly improve
+significantly improved
+significantly improves
+significantly increased
+significantly longer
+significantly lower
+significantly outperforms
+significantly reduced
+significantly reduces
+significantly shorter
+silent killer
+similar compile-time
+similar results
+simple algorithm
+simulation model
+simulation models
+simulation module
+simulation results
+simulation shows
+simulation studies
+simulation study
+simulation technique
+single assignment
+single center
+single crossmatch
+single nucleotide
+single nucleotide polymorphisms
+single surgeon
+sleep apnea
+slide images
+small number
+small renal
+small renal masses
+small sample
+smart healthcare
+smoking status
+social media
+social network
+social network analysis
+social networking
+social networks
+social resources
+sodium glucose
+softmax classifier
+software analysis
+software defined
+software development
+software development environment
+software engineering
+software pipelining
+solitary kidney
+solution space
+solution space quantification
+solutions found
+solve problems
+solving banning
+sophisticated software
+sophisticated software development
+sophisticated software development environment
+source editor
+source systems
+sources including
+space quantification
+special attention
+special focus
+specific gravity
+specific procedure
+specific research
+specific treatment
+spectrum disorder
+spill costs
+spontaneous brain
+spontaneous brain activity
+spontaneous neural
+spontaneous neural activity
+springer international
+springer international publishing
+springer international publishing switzerland
+springer nature
+springer nature singapore
+springer nature switzerland
+springer science
+springer-verlag berlin
+springer-verlag berlin heidelberg
+springer-verlag london
+square error
+squared error
+stability selection
+stage classification
+stage kidney
+stage kidney disease
+stage prediction
+stage renal
+stage renal disease
+stage renal failure
+standard deviation
+standard deviation error
+standard methods
+standardized algorithm
+staphylococcus aureus
+start dialysis
+started dialysis
+starting point
+state-of-the-art methods
+state-of-the-art performance
+states renal
+static analysis
+static single
+static single assignment
+statin therapy
+statistical analysis
+statistical approach
+statistical approaches
+statistical differences
+statistical methods
+statistical significance
+statistically analyzed
+statistically significant
+statistically significant differences
+stepwise approach
+stimulating agents
+stochastic gradient
+stolichnaya izdatelskaya
+stolichnaya izdatelskaya kompaniya
+stratify patients
+stroke disease
+stroke prevention
+strongest predictors
+studies included
+study aimed
+study background
+study chronic
+study chronic kidney
+study chronic kidney disease
+study cohort
+study compared
+study concludes
+study conducted
+study consisted
+study demonstrated
+study design
+study examines
+study focuses
+study found
+study group
+study identified
+study included
+study including
+study objective
+study period
+study population
+study proposes
+study protocol
+study results
+study shows
+study suggests
+subgroup analysis
+subjective global
+subjective global assessment
+substantial impact
+substantially higher
+success rates
+successful exchanges
+successfully completed
+successfully performed
+successfully treated
+sufficiently large
+suggested model
+suitable methods
+summary information
+superior frontal
+superior frontal gyrus
+superior performance
+superior performance compared
+supervised classification
+supervised learning
+supervised learning algorithms
+supervised machine
+supervised machine learning
+supervised topic
+supply chain
+support healthcare
+support system
+support systems
+support vector
+support vector machine
+support vector machine algorithm
+support vector machines
+support vector regression
+surely computes
+surely computes optimal
+surgical approach
+surgical complications
+surgical interventions
+surgical margin
+surgical margins
+surgical outcomes
+surgical patients
+surgical procedure
+surgical technique
+surgical techniques
+surgical treatment
+survival analysis
+survival benefit
+survival rates
+sustainable development
+swarm optimization
+symbolic execution
+synthetic minority
+synthetic minority oversampling
+system background
+system based
+system database
+system disease
+system performance
+systematic approach
+systematic review
+systemic lupus
+systemic lupus erythematosus
+systems based
+systolic blood
+systolic blood pressure
+target class
+target disease
+target event
+target genes
+target haemoglobin
+target population
+target range
+teacher model
+teaching hospital
+teaching learning
+technique called
+techniques chronic
+techniques chronic kidney
+techniques chronic kidney disease
+tehran university
+temporal gyrus
+tertiary referral
+testing accuracy
+testing dataset
+textural features
+texture analysis
+texture feature
+texture features
+theoretical analysis
+theoretical results
+therapeutic algorithm
+therapeutic algorithms
+therapeutic interventions
+therapeutic management
+therapeutic option
+therapeutic strategies
+therapeutic targets
+therapy group
+things application
+threatening disease
+time-varying delays
+timely diagnosis
+timely intervention
+times higher
+to detect chronic
+to detect chronic kidney
+to detect chronic kidney disease
+tomography angiography
+tomography scans
+topic modelling
+topic models
+topics discussed
+topics discussed include
+topics include
+total cholesterol
+total number
+total protein
+toxins removal
+tract infection
+tract infections
+traditional chinese
+traditional chinese medicine
+traditional compiler
+traditional machine
+traditional machine learning
+traditional methods
+traditional models
+training phase
+training process
+transcriptome analysis
+transfer learning
+transforming growth
+transforming growth factor-β
+transplant background
+transplant biopsies
+transplant candidates
+transplant center
+transplant patients
+transplant recipient
+transplant recipients
+transplant registry
+transplant waiting
+transplanted kidney
+transthoracic echocardiography
+treating chronic
+treating chronic kidney
+treatment algorithm
+treatment algorithms
+treatment benefit
+treatment decisions
+treatment effects
+treatment group
+treatment groups
+treatment guidelines
+treatment methods
+treatment modalities
+treatment modality
+treatment option
+treatment options
+treatment plans
+treatment regimens
+treatment response
+treatment schedules
+treatment strategies
+treatment strategy
+treatment targets
+trial registration
+tubular atrophy
+tumor segmentation
+ultrasound image
+ultrasound images
+ultrasound images chronic
+ultrasound images chronic kidney
+ultrasound images chronic kidney disease
+ultrasound imaging
+undergoing dialysis
+undergoing haemodialysis
+undergoing hemodialysis
+undergoing robot-assisted
+undergoing robotic
+undergoing robotic partial
+undergoing robotic partial nephrectomy
+underlying disease
+underlying mechanism
+underwent robot-assisted
+underwent robot-assisted partial
+underwent robot-assisted partial nephrectomy
+underwent robotic
+underwent rs-fmri
+united kingdom
+united network
+united states
+united states renal
+univariate analysis
+university hospital
+unsupervised clustering
+unsupervised learning
+upper extremity
+upper limit
+uremic patients
+uremic toxins
+uremic toxins removal
+urinary albumin
+urinary organ
+urinary protein
+urinary tract
+urinary tract infection
+urinary tract infections
+urine protein
+urine samples
+urine tests
+utilizing machine
+utilizing machine learning
+validated algorithms
+validated methods
+validation cohort
+validation cohorts
+validation study
+validation technique
+validity index
+valuable information
+valuable insights
+values of uci
+values of uci dataset
+vancomycin dosing
+vancomycin dosing algorithm
+variable importance
+variable selection
+variables including
+varying degrees
+vascular access
+vascular calcification
+vascular calcifications
+vascular disease
+vascular diseases
+vascular end-stage
+vascular end-stage disease
+vascular endothelial
+vascular endothelial growth
+vascular endothelial growth factor
+vector machine
+vector machine algorithm
+vector machines
+vector regression
+vectorizing fortran
+vectorizing fortran compiler
+venous catheter
+ventricular hypertrophy
+veterans affairs
+virtual machines
+virtual reality
+vital organs
+voice commands
+volume monitoring
+volume overload
+volume reduction
+volume reduction strategies
+waiting times
+water vapor
+wearable device
+wearable devices
+wearable system
+wearable technologies
+weight assessment
+weighted average
+weighted average ensemble
+widely accepted
+wiley periodicals
+wireless sensor
+wireless sensor network
+wireless sensor networks
+wolters kluwer
+wolters kluwer health
+workflow scheduling
+world health
+world health organization
+world population
+world scientific
+world scientific publishing
+world scientific publishing company
+worldwide public
+worldwide public health
+worldwide public health problem
+wrapper feature
+wrapper feature selection
+wrapper method
+x-ray absorptiometry
+x-ray images
+xgboost model
+young patients
+younger patients
